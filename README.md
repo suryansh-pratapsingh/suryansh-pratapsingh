@@ -27,6 +27,19 @@
 
 ---
 
+### 💼 Experience
+- 🛠️ **Software Developer Intern** – *Hotwax Systems, Indore* (Jul 2024 – Oct 2024)  
+- 🛠️ **Software Engineer Intern** – *Protonshub, Indore* (Nov 2023 – Feb 2024)
+
+---
+
+### 📜 Certifications
+- ✅ **TechSaksham Certification** – Full-Stack Web Development using the MERN Stack *(by Microsoft & SAP)*
+- ✅ **NPTEL Certification** – Problem Solving Through Programming in C
+- ✅ **DataFlair Certification** – Data Structures and Algorithms using C and C++
+
+---
+
 ### 💻 Tech Stack
 
 <p align="center">
