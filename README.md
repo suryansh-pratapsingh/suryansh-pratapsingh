@@ -23,7 +23,7 @@
 - 🥇 Winner - **Dev Hacks** (National Level Hackathon)
 - 🥇 Winner - **Genesis 2K25** (National Level Hackathon)
 - 🥇 Winner - **Supra Web3 Ideathon** – Best Web3 Idea
--  Research Paper Accepted – IEEE ACROSET 2025
+-   Research Paper Accepted – **IEEE ACROSET 2025**
 
 ---
 
