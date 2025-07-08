@@ -48,6 +48,13 @@
 
 ---
 
+### 📄 Download My Resume
+
+[⬇️ Download Resume (PDF)](https://github.com/suryansh-pratapsingh/resume/raw/main/Suryansh%20Pratap%20Singh%20Resume%20-ol.pdf)
+
+
+---
+
 ### 📫 Contact Me:
 - 📧 **suryanshpratapsingh00@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/suryansh-pratap-singh/)
