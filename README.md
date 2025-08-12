@@ -12,7 +12,7 @@
   <a href="mailto:suryanshpratapsingh00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username/">
+  <a href="https://leetcode.com/your-leetcode-username/](https://leetcode.com/u/Suryansh_Pratap_Singh/">
     <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=flat&logoColor=white" alt="LeetCode" />
   </a>
 </p>
